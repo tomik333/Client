@@ -1,0 +1,133 @@
+.g{
+    text-align: center;
+    color: lightskyblue;
+    border: solid 3px lightskyblue;
+}
+
+.w{
+    text-align: center;
+    color: red;
+    border: solid 3px red; 
+}
+.e{
+    text-align: center;
+    color: orange;
+    border: solid 3px orange;  
+}
+.r{
+    text-align: center;
+    color: green;
+    border: solid 3px green; 
+}
+.t{
+    text-align: center;
+    color: blue;
+    border: solid 3px blue; 
+}
+.p{
+    position: relative;
+    left:1px ;
+}
+.y{
+    text-align: center;
+    color: rgb(109, 81, 29);
+    border: solid 3px rgb(109, 81, 29); 
+}
+.n{
+    width: 50px;
+    height: 37px;
+    position: absolute;
+    top: 10px;
+    left: 320px;
+}
+.bv{
+    width: 50px;
+    height: 37px;
+    position: absolute;
+    top: 10px;
+    left: 970px;
+
+}
+.denp{
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    top: 2000px;
+    
+}
+.denp{
+    width: 150px;
+    height: 150px;
+    
+}
+.denp1{
+    width: 150px;
+    height: 150px;
+    position: relative;
+    left: 800px;
+    top: 2000px;
+}
+.denyamolodech{
+   position: absolute;
+   left: 225px;
+   top: 2000px;
+   color: lightslategrey;
+}
+.ne{
+    color: red;
+    border: solid 3px red;
+    font-size: 1.2rem; 
+}
+.ZONE:hover{
+    background-color: black;
+    color: darkslategray;
+}
+body{
+    background-color: black;
+}
+.hu{
+    text-align: center;
+    color: rgba(177, 6, 6, 0.308);
+    border: solid 3px rgba(177, 6, 6, 0.308);
+    position: relative;
+    top: 300px;
+    
+}
+.hy{
+    text-align: center;
+    color: rgba(177, 6, 6, 0.308);
+    position: relative;
+    top: 300px;
+}
+.nh{
+    width: 600px;
+    height: 200px;
+    top: 300px;
+    position: relative;
+}
+.jjh{
+    width: 600px;
+    height: 200px;
+    top: 300px;
+    position: relative;
+}
+.ji{
+    text-align: center;
+    color: rgba(177, 6, 6, 0.308);
+    border: solid 3px rgba(177, 6, 6, 0.308);
+    position: relative;
+    top: 300px;
+}
+.hte{
+    text-align: center;
+    color: rgba(177, 6, 6, 0.308);
+    border: solid 3px rgba(177, 6, 6, 0.308);
+    position: relative;
+    top: 300px;
+}
+.kl{
+    width: 600px;
+    height: 200px;
+    top: 300px;
+    position: relative;
+}
